@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eliriumBot
+namespace telegram_delirium_bot
 {
     class Card
     {

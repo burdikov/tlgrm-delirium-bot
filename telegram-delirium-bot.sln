@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 14 for Windows Desktop
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eliriumBot", "eliriumBot\eliriumBot.csproj", "{89498F76-1E0D-44C2-ADCA-48F3471FF665}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telegram-delirium-bot", "telegram-delirium-bot\telegram-delirium-bot.csproj", "{89498F76-1E0D-44C2-ADCA-48F3471FF665}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

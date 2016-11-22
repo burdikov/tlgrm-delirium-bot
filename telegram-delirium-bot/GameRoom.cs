@@ -8,7 +8,7 @@ using Telegram.Bot;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.ReplyMarkups;
 
-namespace eliriumBot
+namespace telegram_delirium_bot
 {
     class GameRoom
     {
